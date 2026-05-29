@@ -1,2 +1,7 @@
-# demo-sci-construcciones
-Demo web para SCI CONSTRUCCIONES — diseñada por eterlab.
+# SCI CONSTRUCCIONES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
